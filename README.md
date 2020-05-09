@@ -26,3 +26,8 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+# Atenção:
+
+Basta instalar npm i mssql --force 
+Depois configura senha e nome do banco no arquivo .env.
